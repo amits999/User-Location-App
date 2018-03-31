@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1083284882604",
+    "firebase_url": "https://userlocationapp-c7e70.firebaseio.com",
+    "project_id": "userlocationapp-c7e70",
+    "storage_bucket": "userlocationapp-c7e70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083284882604:android:d3b9078716ff54bc",
+        "android_client_info": {
+          "package_name": "com.amit.action.userlocationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083284882604-71279vllh4g6guhcmjmpt0m54ttd9eg5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amit.action.userlocationapp",
+            "certificate_hash": "a703f563a52bc991805d0911a2da07c8e006af74"
+          }
+        },
+        {
+          "client_id": "1083284882604-btilu7mcbuhtumummqep9f5ad4jn9i3t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0kUtQwn2yRv6cEpY8orQyLGDf-WnZpag"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083284882604-btilu7mcbuhtumummqep9f5ad4jn9i3t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
